@@ -1,2 +1,0 @@
-# lazar.click
-our website
